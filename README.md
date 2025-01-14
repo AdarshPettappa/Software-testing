@@ -67,7 +67,7 @@ Through the completion of these projects, I gained valuable hands-on experience 
 
 ### Disclaimer:
 
-In compliance with the University of Michigan's honor code, I cannot publicly share the source code. However, please contact me if you would like to look at the project code. A detailed descriptions of each project’s key functionalities and the technical concepts applied are provided above to highlight my technical expertise and problem-solving skills.
+In compliance with the University of Michigan's honor code, I cannot publicly share the source code. However, please contact me if you would like to look at the project code. A detailed descriptions of each project’s key functionalities and the technical concepts applied are provided below to highlight my technical expertise and problem-solving skills.
 
 ## Acknowledgements
 
